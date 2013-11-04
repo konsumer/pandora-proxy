@@ -1,0 +1,28 @@
+{
+  "name": "pandora-proxy",
+  "version": "0.0.0",
+  "description": "Simple REST interface for Pandora undocumented API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:konsumer/pandora-proxy.git"
+  },
+  "keywords": [
+    "pandora",
+    "node",
+    "api",
+    "rest"
+  ],
+  "author": "David Konsumer <konsumer@jetboystudio.com>",
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "chai": "~1.8.1"
+  },
+  "dependencies": {
+    "request": "~2.27.0"
+  }
+}

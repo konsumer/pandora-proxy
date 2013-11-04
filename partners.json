@@ -1,0 +1,51 @@
+{
+	"android": {
+		"username": "android",
+		"password": "AC7IBG09A3DTSYM4R41UJWL07VLN8JI7",
+		"deviceId": "android-generic",
+		"decrypt cipher": "R=U!LH$O2B#",
+		"encrypt_cypher": "6#26FRL$ZWD"
+	},
+
+	"ios": {
+		"Username": "iphone",
+		"Password": "P2E4FC0EAD3*878N92B2CDp34I0B1@388137C",
+		"deviceId": "IP01",
+		"decrypt_cypher": "20zE1E47BE57$51",
+		"encrypt_cypher": "721^26xE22776"
+	},
+
+	"palm": {
+		"username": "palm",
+		"password": "IUC7IBG09A3JTSYM4N11UJWL07VLH8JP0",
+		"deviceId": "pre",
+		"decrypt_cypher": "E#U$MY$O2B=",
+		"encrypt_cypher": "%526CBL$ZU3"
+	},
+
+	"winmo": {
+		"username": "winmo",
+		"password": "ED227E10a628EB0E8Pm825Dw7114AC39",
+		"deviceId": "VERIZON_MOTOQ9C",
+		"decrypt_cypher": "7D671jt0C5E5d251",
+		"encrypt_cypher": "v93C8C2s12E0EBD",
+		"note": "internal-tuner.pandora.com"
+	},
+
+	"desktop":{
+		"username": "pandora one",
+		"password": "TVCKIBGS9AO9TSYLNNFUML0743LH82D",
+		"deviceId": "D01",
+		"decrypt_cypher": "U#IO$RZPAB%VX2",
+		"encrypt_cypher": "2%3WCL*JU$MP]4",
+		"note": "Requires a Pandora One account. Fails at station.getPlaylist without one."
+	},
+
+	"vistawidget":{
+		"username": "windowsgadget",
+		"password": "EVCCIBGS9AOJTSYMNNFUML07VLH8JYP0",
+		"deviceId": "WG01",
+		"decrypt_cypher": "E#IO$MYZOAB%FVR2",
+		"encrypt_cypher": "%22CML*ZU$8YXP[1"
+	}
+}
